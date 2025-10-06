@@ -1,0 +1,51 @@
+empleado,Apellido,sabor,dia,precio_unitario,cantidad,total_venta,nombre completo
+Carlos,Guzman,Mexicana,Domingo,142.6086956521739,3.0,427.82608695652175,Carlos Guzman
+Marta,Juarez,Hawaiana,Martes,160.0,3.0,480.0,Marta Juarez
+Luis,Fuentes,Mexicana,Martes,150.0,4.0,600.0,Luis Fuentes
+Carlos,Guzman,Queso,Jueves,120.0,2.0,240.0,Carlos Guzman
+Carlos,Guzman,Mexicana,Martes,150.0,2.0,300.0,Carlos Guzman
+Marta,Juarez,Queso,Martes,160.0,1.0,160.0,Marta Juarez
+Luis,Fuentes,Queso,Sábado,160.0,2.0,320.0,Luis Fuentes
+Luis,Fuentes,Peperoni,Jueves,150.0,3.0,450.0,Luis Fuentes
+Carlos,Guzman,Mexicana,Sábado,120.0,2.0,240.0,Carlos Guzman
+Ana,Del Rio,Peperoni,Domingo,150.0,1.0,150.0,Ana Del Rio
+Carlos,Guzman,Mexicana,Domingo,150.0,2.0,300.0,Carlos Guzman
+Carlos,Guzman,Mexicana,Sábado,142.6086956521739,2.0,285.2173913043478,Carlos Guzman
+Carlos,Guzman,Peperoni,Domingo,160.0,4.0,640.0,Carlos Guzman
+Carlos,Guzman,Peperoni,Jueves,160.0,4.0,640.0,Carlos Guzman
+Marta,Juarez,Mexicana,Lunes,120.0,1.0,120.0,Marta Juarez
+Luis,Fuentes,Hawaiana,Sábado,120.0,2.0,240.0,Luis Fuentes
+Marta,Juarez,Queso,Viernes,120.0,2.0,240.0,Marta Juarez
+Marta,Juarez,Peperoni,Viernes,160.0,2.0,320.0,Marta Juarez
+Marta,Juarez,Queso,Martes,120.0,2.0,240.0,Marta Juarez
+Carlos,Guzman,Hawaiana,Domingo,150.0,1.0,150.0,Carlos Guzman
+Ana,Del Rio,Hawaiana,Viernes,120.0,2.0,240.0,Ana Del Rio
+Luis,Fuentes,Hawaiana,Martes,160.0,3.0,480.0,Luis Fuentes
+Ana,Del Rio,Peperoni,Lunes,150.0,4.0,600.0,Ana Del Rio
+Marta,Juarez,Hawaiana,Jueves,150.0,3.0,450.0,Marta Juarez
+Marta,Juarez,Peperoni,Jueves,160.0,2.0,320.0,Marta Juarez
+Ana,Del Rio,Hawaiana,Jueves,120.0,3.0,360.0,Ana Del Rio
+Ana,Del Rio,Queso,Viernes,160.0,3.0,480.0,Ana Del Rio
+Ana,Del Rio,Queso,Lunes,150.0,1.0,150.0,Ana Del Rio
+Marta,Juarez,Mexicana,Viernes,120.0,2.0,240.0,Marta Juarez
+Marta,Juarez,Queso,Domingo,142.6086956521739,2.0,285.2173913043478,Marta Juarez
+Luis,Fuentes,Mexicana,Viernes,150.0,5.0,750.0,Luis Fuentes
+Luis,Fuentes,Queso,Lunes,160.0,3.0,480.0,Luis Fuentes
+Marta,Juarez,Peperoni,Lunes,160.0,2.0,320.0,Marta Juarez
+Ana,Del Rio,Queso,Domingo,160.0,2.0,320.0,Ana Del Rio
+Ana,Del Rio,Mexicana,Lunes,120.0,5.0,600.0,Ana Del Rio
+Luis,Fuentes,Mexicana,Lunes,120.0,4.0,480.0,Luis Fuentes
+Marta,Juarez,Hawaiana,Jueves,150.0,1.0,150.0,Marta Juarez
+Luis,Fuentes,Peperoni,Domingo,120.0,3.0,360.0,Luis Fuentes
+Luis,Fuentes,Queso,Miércoles,150.0,4.0,600.0,Luis Fuentes
+Carlos,Guzman,Hawaiana,Miércoles,160.0,5.0,800.0,Carlos Guzman
+Carlos,Guzman,Queso,Lunes,150.0,2.0,300.0,Carlos Guzman
+Carlos,Guzman,Queso,Miércoles,120.0,2.0,240.0,Carlos Guzman
+Ana,Del Rio,Hawaiana,Miércoles,150.0,4.0,600.0,Ana Del Rio
+Marta,Juarez,Hawaiana,Lunes,142.6086956521739,5.0,713.0434782608695,Marta Juarez
+Marta,Juarez,Hawaiana,Miércoles,120.0,2.0,240.0,Marta Juarez
+Marta,Juarez,Hawaiana,Viernes,160.0,1.0,160.0,Marta Juarez
+Marta,Juarez,Hawaiana,Martes,120.0,5.0,600.0,Marta Juarez
+Carlos,Guzman,Queso,Domingo,150.0,2.0,300.0,Carlos Guzman
+Ana,Del Rio,Hawaiana,Martes,150.0,3.0,450.0,Ana Del Rio
+Ana,Del Rio,Peperoni,Lunes,120.0,5.0,600.0,Ana Del Rio

@@ -1,0 +1,51 @@
+empleado,Apellido,sabor,dia,precio_unitario,cantidad
+Carlos,Guzman,Mexicana,Domingo,,3
+Marta,Juarez,Hawaiana,Martes,160,3
+Luis,Fuentes,Mexicana,Martes,150,4
+Carlos,Guzman,Queso,Jueves,120,2
+Carlos,Guzman,Mexicana,Martes,150,2
+Marta,Juarez,Queso,Martes,160,1
+Luis,Fuentes,Queso,Sábado,160,2
+Luis,Fuentes,Peperoni,Jueves,150,3
+Carlos,Guzman,Mexicana,Sábado,120,2
+Ana,Del Rio,Peperoni,Domingo,150,1
+Carlos,Guzman,Mexicana,Domingo,150,2
+Carlos,Guzman,Mexicana,Sábado,,2
+Carlos,Guzman,Peperoni,Domingo,160,4
+Carlos,Guzman,Peperoni,Jueves,160,4
+Marta,Juarez,Mexicana,Lunes,120,1
+Luis,Fuentes,Hawaiana,Sábado,120,
+Marta,Juarez,Queso,Viernes,120,2
+Marta,Juarez,Peperoni,Viernes,160,
+Marta,Juarez,Queso,Martes,120,2
+Carlos,Guzman,Hawaiana,Domingo,150,1
+Ana,Del Rio,Hawaiana,Viernes,120,2
+Luis,Fuentes,Hawaiana,Martes,160,3
+Ana,Del Rio,Peperoni,Lunes,150,4
+Marta,Juarez,Hawaiana,Jueves,150,3
+Marta,Juarez,Peperoni,Jueves,160,2
+Ana,Del Rio,Hawaiana,Jueves,120,3
+Ana,Del Rio,Queso,Viernes,160,3
+Ana,Del Rio,Queso,Lunes,150,1
+Marta,Juarez,Mexicana,Viernes,120,2
+Marta,Juarez,Queso,Domingo,,2
+Luis,Fuentes,Mexicana,Viernes,150,5
+Luis,Fuentes,Queso,Lunes,160,3
+Marta,Juarez,Peperoni,Lunes,160,
+Ana,Del Rio,Queso,Domingo,160,2
+Ana,Del Rio,Mexicana,Lunes,120,5
+Luis,Fuentes,Mexicana,Lunes,120,4
+Marta,Juarez,Hawaiana,Jueves,150,1
+Luis,Fuentes,Peperoni,Domingo,120,3
+Luis,Fuentes,Queso,Miércoles,150,4
+Carlos,Guzman,Hawaiana,Miércoles,160,5
+Carlos,Guzman,Queso,Lunes,150,2
+Carlos,Guzman,Queso,Miércoles,120,2
+Ana,Del Rio,Hawaiana,Miércoles,150,4
+Marta,Juarez,Hawaiana,Lunes,,5
+Marta,Juarez,Hawaiana,Miércoles,120,2
+Marta,Juarez,Hawaiana,Viernes,160,1
+Marta,Juarez,Hawaiana,Martes,120,5
+Carlos,Guzman,Queso,Domingo,150,2
+Ana,Del Rio,Hawaiana,Martes,150,3
+Ana,Del Rio,Peperoni,Lunes,120,5
